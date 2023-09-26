@@ -11,4 +11,9 @@ Sample application to learn about MERN tools.😊
 3. React
 4. Node.js
 
+If you wants to use this code you need to follow some steps:
+1. Clone this project.
+2. Install all needed tools.
+3. Then run the project.
+
 # Work in progress..🧑‍💻
