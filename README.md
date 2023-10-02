@@ -16,4 +16,9 @@ If you want this code you need to follow some steps:
 2. Install all needed tools.
 3. Then run the project.
 
-# Work in progress..🧑‍💻
+
+<img width="960" alt="image" src="https://github.com/Hareesh061/MERN_TODO_APP/assets/90563881/5191b6cd-a9ae-4c8f-8fe1-d449b87d137c">
+
+
+# Work in progress..(database successfully connected..)🧑‍💻
+
