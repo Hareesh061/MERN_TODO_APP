@@ -12,7 +12,11 @@ const Todoform = () =>{
     const onFormSubmit = (e) =>{
         e.preventDefault();
 
-        dispatch(addNewTodo());
+        dispatch(addNewTodo(text));
+
+        setText('');
+
+        
 
     }
 
@@ -27,7 +31,8 @@ const Todoform = () =>{
             <input
             placeholder="Enter new todo.."
             className="input" 
-            onChange={onInputChange}/>
+            onChange={onInputChange}
+            value={text}/>
             
         </form>
 
