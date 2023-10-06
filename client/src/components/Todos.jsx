@@ -4,6 +4,7 @@ import { getAllTodos } from "../redux/actions/index";
 
 import { useDispatch ,useSelector} from 'react-redux';
 
+import Todo  from "./Todo";
 
  
 
@@ -22,10 +23,13 @@ export const Todos = () =>{
         <article>
             <ul>
                 {
-                    todos.map( todo => {
-                        <li>{todo.data}</li>
-                    })
-                 }
+                    todos.map(todo => (
+                        <Todo
+                        key = {todo._id}
+                        todo = { todo }
+                        />
+                    ))
+                }
             </ul>
         </article>
     ) 
