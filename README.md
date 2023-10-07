@@ -20,5 +20,10 @@ If you want this code you need to follow some steps:
 <img width="960" alt="image" src="https://github.com/Hareesh061/MERN_TODO_APP/assets/90563881/5191b6cd-a9ae-4c8f-8fe1-d449b87d137c">
 
 
+
+<img width="960" alt="image" src="https://github.com/Hareesh061/MERN_TODO_APP/assets/90563881/5328ad49-7226-436f-9bc1-5c3b9fb15bc4">
+
+
+
 # Work in progress..(database successfully connected..)🧑‍💻
 
