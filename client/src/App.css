@@ -48,3 +48,12 @@ article{
   display: grid;
 
 }
+
+.edit-todo{
+  width: 85%;
+  font-size: 16px;
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #fff;
+}
