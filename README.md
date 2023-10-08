@@ -30,5 +30,7 @@ If you want this code you need to follow some steps:
 
 
 
-# Work in progress..(database successfully connected..)🧑‍💻
+**Learning with building/applying in real world is one of the good way to skill up your self.**
+
+**KEEP LEARNING**
 
